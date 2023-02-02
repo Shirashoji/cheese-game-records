@@ -1,0 +1,4 @@
+gamma & 0.750000 \\ \hline
+decay\_rate & 0.250000 \\ \hline
+batch\_size & 7 \\ \hline
+learning\_rate & 0.010000 \\

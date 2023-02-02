@@ -1,0 +1,4 @@
+gamma: 0.800000
+decay_rate: 0.200000
+batch\_size: 1024
+learning_rate: 0.001000
